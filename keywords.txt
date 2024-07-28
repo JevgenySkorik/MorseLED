@@ -1,0 +1,3 @@
+MorseLED   KEYWORD1
+init    KEYWORD2
+display_str KEYWORD2
