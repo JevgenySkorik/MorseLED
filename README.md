@@ -21,3 +21,10 @@ void loop() {
   morse.display_str("SOS");
 }
 ```
+
+## Installation
+1. Download the repository as a .zip file.
+2. Open Arduino IDE.
+3. Navigate to Sketch -> Include Library -> Add .ZIP Library...
+4. Select the downloaded .zip file and click Open.
+5. To include the library, go to Sketch -> Include Library -> MorseLED-main.
